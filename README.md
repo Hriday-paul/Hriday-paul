@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hriday paul</h1>
-<h3 align="center">A passionate fullstack web developer from Bangladesh</h3>
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Hriday-paul/Hriday-paul/main/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif "San Juan Mountains")
+
+
+<h2 align="center">A passionate Fullstack Web Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
