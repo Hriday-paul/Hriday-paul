@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hriday paul</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate fullstack web developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
@@ -26,8 +26,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,firebase,nodejs,express,mongodb,github,figma,py)](https://skillicons.dev)
 
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hriday-paul&show_icons=true&locale=en&layout=compact" alt="hriday-paul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hriday-paul&show_icons=true&locale=en" alt="hriday-paul" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hriday-paul&" alt="hriday-paul" /></p>
+
+
+
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hriday-paul&card_width=600" alt="GitHub Streak" /></a></p>
