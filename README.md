@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **hridoychandrapaul.10@gmail.com**
 
+- 👨‍💻 All of my projects are available at [https://hriday-paul.netlify.app](https://hriday-paul.netlify.app)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hriday585393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hriday585393" height="30" width="40" /></a>
@@ -26,7 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,firebase,nodejs,express,mongodb,github,figma,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,firebase,nodejs,express,mongodb,github,figma,py)](https://skillicons.dev)
 
 
 
