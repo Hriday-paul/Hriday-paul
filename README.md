@@ -1,7 +1,8 @@
 ![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Hriday-paul/Hriday-paul/main/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif "San Juan Mountains")
 
 
-<h2 align="center">A Passionate Web Developer from Bangladesh</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=100&color=4D38B1&center=true&vCenter=true&random=true&width=1000&lines=%F0%9F%94%A5+A+Passionate+Web+Developer+%F0%9F%94%A5;%F0%9F%94%A5+A+Passionate+React+Developer+%F0%9F%94%A5;%F0%9F%94%A5+A+Passionate+Frontend+Developer+%F0%9F%94%A5)](https://git.io/typing-svg)
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
