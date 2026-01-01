@@ -54,6 +54,10 @@
 </p>
 
 
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Hriday-paul&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hriday-paul&show_icons=true&locale=en&layout=compact" alt="hriday-paul" /></p>
 
