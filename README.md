@@ -59,11 +59,11 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hriday-paul&show_icons=true&locale=en&layout=compact" alt="hriday-paul" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hriday-paul&show_icons=true&locale=en&layout=compact" alt="hriday-paul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hriday-paul&show_icons=true&locale=en" alt="hriday-paul" /></p>
 
 
 
 
-<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hriday-paul&card_width=600" alt="GitHub Streak" /></a></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hriday-paul&card_width=600" alt="GitHub Streak" /></a></p> -->
