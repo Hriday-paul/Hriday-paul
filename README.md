@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **System Design**
 
 - 🔭 I am currently working on the **Backend** of a Ride-sharing application.
-- 
+  
 - 📫 How to reach me **hridoychandrapaul.10@gmail.com**
 
 - 👨‍💻 All of my projects are available at [https://hriday-paul.github.io](https://hriday-paul.github.io)
